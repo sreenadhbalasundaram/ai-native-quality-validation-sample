@@ -5,8 +5,8 @@ project_id: "01KSMWVE87EQ5WDV9FZ9XDESFY"
 folder_id: "01KSMWVR1GSWCZX07J4AAMW484"
 
 # Test Run configuration
-assignee: 41319
-environment_id: 270266
+assignee: 1699830
+environment_id: 284298
 
 # Test URL for automation
 # test_url: "https://demo.lambdatestinternal.com"
