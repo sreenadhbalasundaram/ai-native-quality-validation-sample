@@ -27,7 +27,9 @@ const LOCATIONS = [
   { city: 'Seoul', state: 'South Korea', country: 'South Korea' },
   { city: 'Ghaziabad', state: 'Uttar Pradesh', country: 'India' },
   { city: 'Delhi', state: 'Delhi', country: 'India' },
-  { city: 'Haripad', state: 'Kerala', country: 'India' },
+  { city: 'alappy', state: 'Kerala', country: 'India' },
+  { city: 'noida', state: 'Kerala', country: 'India' },
+  
 
 ];
 
